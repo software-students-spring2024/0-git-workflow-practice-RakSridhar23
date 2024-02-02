@@ -1,5 +1,5 @@
 
-# NYU SWE INTRO 
+# NYU SWE INTRO TO GIT
 
 This project is an introduction to github and git workflow practice. There is a link to an interesting article (IMO) on software engineering and why it is interesting.
 
